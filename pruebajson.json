@@ -1,0 +1,21 @@
+       {
+            "CODIGO": "00100",
+            "Descripcion": "ANESTESIA PARA PROCEDIMIENTOS EN GLÁNDULAS SALIVALES, INCLUYENDO BIOPSIA",
+            "Fg_Tipo": "CP",
+            "Descripcion_Tipo_Item": "Procedimiento (CPT)",
+            "ESTADO": "SI"
+        },
+        {
+            "CODIGO": "00528",
+            "Descripcion": "ANESTESIA PARA PROCEDIMIENTOS A CIELO CERRADO DEL TÓRAX; MEDIASTINOSCOPÍA Y TORACOSCOPÍA DIAGNÓSTICA SIN USO DE UN PULMÓN DE VENTILACIÓN",
+            "Fg_Tipo": "CP",
+            "Descripcion_Tipo_Item": "Procedimiento (CPT)",
+            "ESTADO": "SI"
+        },
+        {
+            "CODIGO": "00820",
+            "Descripcion": "ANESTESIA PARA PROCEDIMIENTOS EN PARED ABDOMINAL POSTERIOR BAJA",
+            "Fg_Tipo": "CP",
+            "Descripcion_Tipo_Item": "Procedimiento (CPT)",
+            "ESTADO": "SI"
+        }
